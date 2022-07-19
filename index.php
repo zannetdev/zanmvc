@@ -10,7 +10,6 @@ require 'server/lib/Hash.php';
 require 'server/lib/Model.php';
 require 'server/lib/Session.php';
 require 'server/lib/View.php';
-require 'vendor/autoload.php';
 require 'server/config/env.php';
 
 $bootstrap = new Bootstrap();
