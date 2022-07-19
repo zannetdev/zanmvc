@@ -1,0 +1,15 @@
+{
+  "name": "sistema_automotriz",
+  "version": "1.0.0",
+  "description": "An system with automatic messaging and notificiations with whatsapp, sms and phone calls",
+  "contributors": [
+    "redstartheme"
+  ],
+  "keywords": [
+    "sms",
+    "calls",
+    "management_system"
+  ],
+  "author": "ZannetDev",
+  "license": "MIT"
+}
